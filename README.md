@@ -1,6 +1,11 @@
-### Hi there 👋
-## Welcome to my GitHub! 🧑🏽‍💻
+## Hi there 👋
+### Welcome to my GitHub! 🧑🏽‍💻
 
+I'm a software developer from Addu City, cutrently based in Malaysia. 
+Currently I'm wrapping my first year of CompSci at Taylor's Uni. 
+This Github contains projects I work on.
+
+You can view more info about @ [my portfolio](https://junaadh.me)
 
 <!--
 **junaadh/junaadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
