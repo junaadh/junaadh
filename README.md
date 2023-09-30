@@ -6,7 +6,7 @@
 * I'm wrapping my first year of CompSci at Taylor's Uni
 * This Github contains projects I work on
 
-#### You can view more info about @ [my portfolio](https://junaadh.me)
+ **You can view more info about @ _[my portfolio](https://junaadh.me)_**
 
 <!--
 **junaadh/junaadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
