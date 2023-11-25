@@ -8,7 +8,6 @@
 
  **You can view more info about @ _[my portfolio](https://junaadh.me)_**
 
- #### Most Used Languages
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=junaadh&layout=donut-vertical&theme=dark"
