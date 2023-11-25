@@ -8,6 +8,19 @@
 
  **You can view more info about @ _[my portfolio](https://junaadh.me)_**
 
+ #### Most Used Languages
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=junaadh&layout=donut-vertical&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=junaadh&layout=donut-vertical"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaadh&layout=donut-vertical" />
+</picture>
+
 <!--
 **junaadh/junaadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
