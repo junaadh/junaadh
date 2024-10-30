@@ -3,8 +3,9 @@
 
 * I'm a software developer from Addu City
 * Currently based in Malaysia
-* I'm wrapping my first year of CompSci at Taylor's Uni
+* I'm wrapping my second year of CompSci at Taylor's Uni
 * This Github contains projects I work on
+* I love finding out how things work under the hood
 
  **You can view more info about @ _[my portfolio](https://junaadh.me)_**
 
