@@ -10,14 +10,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=junaadh&layout=donut-vertical&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=junaadh&layout=donut-vertical&theme=dark&langs_count=8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=junaadh&layout=donut-vertical"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=junaadh&layout=donut-vertical&langs_count=8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaadh&layout=donut-vertical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaadh&layout=donut-vertical&langs_count=8" />
 </picture>
 
 <!--
